@@ -2,7 +2,7 @@
 
 **`Cybersecurity Project Manager Intern`**
 
-I'm a Cybersecurity Project Manager who loves to solve problems and tinker with things wherever I go. I love learning new things and thinking outside of the box. I am working on Ubuntu (CLI and VMWare!), SD-WAN, and some Python projects!
+I'm a Cybersecurity Project Manager who loves to solve problems and tinker with things wherever I go. I love learning new things and thinking outside of the box. I'm working on Linux (CLI and VMWare!), SD-WAN, and Python projects!
 
 #
 
