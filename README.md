@@ -27,6 +27,14 @@ I'm a Cybersecurity Project Manager who loves to solve problems and tinker with 
 
 #
 
+### 💻 Projects
+
+<br />
+
+I love art
+
+#
+
 ### 👩‍💻 My Tech Journey
 
 I started my coding journey as a naive computer science student with a passion for learning everything I could about this programming world - Networking, coding, AWS, Linux, CLI. I love challenging myself by continuously learning new things! My journey will always be moving forward towards the next goal while simultaneously improving my skillset. 
