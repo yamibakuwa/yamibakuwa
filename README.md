@@ -31,7 +31,11 @@ I'm a Cybersecurity Project Manager who loves to solve problems and tinker with 
 
 <br />
 
-I love art
+<img src="https://www.networkworld.com/wp-content/uploads/2023/11/protected_padlock_with_checkmark_amid_encrypted_data_cybersecurity_data_security_encryption_by_matejmo_gettyimages-872829036_cso_nw_2400x1600-100853298-orig.jpg?quality=50&strip=all" alt="Project Logo" width="200"/> 
+
+[Encrypt/Decrypt Messages Project](https://github.com/yamibakuwa/Encrypt-Decrypt-Project)
+
+
 
 #
 
